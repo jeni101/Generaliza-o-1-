@@ -2,8 +2,8 @@
 
 Equipe:
 
-Gustavo Vieira
-Jenifer Gomes
-Luís Gabriel
-Philipe Gonçalves
-Victor Heredia Moura
+- Gustavo Vieira
+- Jenifer Gomes
+- Luís Gabriel
+- Philipe Gonçalves
+- Victor Heredia Moura
