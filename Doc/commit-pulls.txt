@@ -1,3 +1,4 @@
 Version:
     -0.000.01
         -[ • jenifer  ] 00.1.0.0.0.0.0.001    - (criacao commit-pulls e README)
+        -[ • Gustavo  ] 00.1.0.0.0.0.0.002    - (initial simpson 3/8)
