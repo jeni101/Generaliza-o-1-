@@ -13,7 +13,7 @@ def simpson38(y, h):
     
     return (3 * h / 8) * np.sum(weights * y)
 
-def perform(f_str, a, b, n_max):
+def perform38(f_str, a, b, n_max):
     safe_dict = {"np": np, "x": None}
     
     n_values = np.arange(3, n_max + 1, 3)
