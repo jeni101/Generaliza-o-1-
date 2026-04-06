@@ -12,7 +12,7 @@ def ajuda_sintaxe():
 | USE SEMPRE: x como variável                                 |
 | Exemplo: x**2, x**3 + 2*x                                   |
 |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=|
-| FUNÇÕES DISPONÍVEIS (direto, sem np.):                      |
+| FUNÇÕES DISPONÍVEIS:                                        |
 | sin(x)   → seno                                             |
 | cos(x)   → cosseno                                          |
 | exp(x)   → exponencial                                      |
