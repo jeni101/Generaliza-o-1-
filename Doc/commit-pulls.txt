@@ -25,3 +25,4 @@ Version:
         
     -0.110.01
         -[ • Gustavo  ] 10.0.0.0.0.0.0.001    - (dev_plus consolidation)
+        -[ • Gustavo  ] 10.0.0.0.0.0.0.002    - (pycash cleaning)
