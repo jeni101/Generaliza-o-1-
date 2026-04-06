@@ -27,6 +27,5 @@ Version:
         -[ • Gustavo  ] 10.0.0.0.0.0.0.001    - (dev_plus consolidation)
         -[ • Gustavo  ] 10.0.0.0.0.0.0.002    - (pycash cleaning)
         -[ • Gustavo  ] 10.0.0.0.0.0.0.003    - (final ajustments)
-        -[ • Gustavo  ] 10.0.0.0.0.0.0.004    - (exe)
-        -[ • Gustavo  ] 10.0.0.0.0.0.0.005    - (top)
-        -[ • Gustavo  ] 10.0.0.0.0.0.0.006    - (tome)
+        -[ • Gustavo  ] 10.0.0.0.0.0.0.005    - (exe)
+        -[ • Gustavo  ] 10.0.0.0.0.0.0.006    - (top)
