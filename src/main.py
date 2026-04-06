@@ -1,6 +1,6 @@
 import numpy as np
 from simpson38.simpson38_graph import perform
-from simpson38.simpson13_graph import perform_13
+from simpson13.simpson13_graph import perform_13
 
 # Simpson 3/8
 # python main.py perform
